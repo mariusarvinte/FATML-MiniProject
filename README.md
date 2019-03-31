@@ -10,7 +10,7 @@ Tensorflow implementation. Python 3.x required.
 Folder structure:
 - "main" - Contains individual .py scripts named "CAE_XYZ.py" for each dataset. Can be directly run. NN parameters and number of prototypes are editable in the first few lines.
 
-- "results" - Presaved, extended simulation results for each dataset. .xls files contain weight matrices of the last dense layer. The "img" folder in each case contains images of the autoencoder performance and the decoded prototype vectors.
+- "results" - Presaved, archived, extended simulation results for each dataset. .xls files contain weight matrices of the last dense layer. The "img" folder in each case contains images of the autoencoder performance and the decoded prototype vectors.
 
 Notes on datasets:
 - MNIST data is ready for use in the "MNIST_data" folder
